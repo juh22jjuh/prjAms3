@@ -10,7 +10,7 @@ if ($valor1 == $valor2 && $valor2 == $valor3) {
 
 elseif ($valor1 == $valor2 && $valor2 != $valor3) {
     
-    echo "a classificação do triangulo é isósceles";
+    echo "a classificação do triangulo é de isósceles";
 }
 
 else {
